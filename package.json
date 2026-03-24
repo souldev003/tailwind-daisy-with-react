@@ -1,5 +1,5 @@
 {
-  "name": "taiwind-daisy-with-react",
+  "name": "tailwind-daisy-with-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,6 +14,7 @@
     "lucide-react": "^0.577.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
+    "recharts": "^3.8.0",
     "tailwindcss": "^4.2.1"
   },
   "devDependencies": {
